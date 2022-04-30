@@ -116,6 +116,7 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_XR_MODULE
 --compilation-defines=ADAPTIVE_PERFORMANCE_2_0_0_OR_NEWER
 --compilation-defines=ADAPTIVE_PERFORMANCE_2_1_0_OR_NEWER
+--compilation-defines=ADAPTIVE_PERFORMANCE_4_0_0_OR_NEWER
 --compilation-defines=ENABLE_BURST_1_0_0_OR_NEWER
 --compilation-defines=USING_ANIMATION_MODULE
 --compilation-defines=USING_PHYSICS2D_MODULE
@@ -280,6 +281,7 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_XR_MODULE
 --compilation-defines=ADAPTIVE_PERFORMANCE_2_0_0_OR_NEWER
 --compilation-defines=ADAPTIVE_PERFORMANCE_2_1_0_OR_NEWER
+--compilation-defines=ADAPTIVE_PERFORMANCE_4_0_0_OR_NEWER
 --compilation-defines=ENABLE_BURST_1_0_0_OR_NEWER
 --compilation-defines=USING_ANIMATION_MODULE
 --compilation-defines=USING_PHYSICS2D_MODULE
