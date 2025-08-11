@@ -1,19 +1,3 @@
----
-name: Feature Request - Priority - High
-about: Suggest an high priority idea for this project
-title: ''
-labels: "Type: Feature, Priority: High"
-assignees: ''
-
----
-
-**Warning :** Before creating an issue or task, make sure that it does not already exists in the [issue tracker](../). Thank you.
-
-## Context
-<!-- Give a brief explanation why the feature should be implemented -->
-
-## Changes
-<!-- Give a brief description of the components that need to change and how -->
-
-## Comments
-<!-- Add further comments if needed -->
+version https://git-lfs.github.com/spec/v1
+oid sha256:f75acab71223d3abfe94633671d344cdc9e10ffe2672f948962249fd8c16a17c
+size 527

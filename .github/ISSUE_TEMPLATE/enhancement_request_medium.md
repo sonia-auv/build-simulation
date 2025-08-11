@@ -1,27 +1,3 @@
----
-name: Enhancement Request - Priority - Medium
-about: Request a medium priority enhancement to help us improve
-title: ''
-labels: "Type: Enhancement, Priority: Medium"
-assignees: ''
-
----
-
-**Warning :** Before creating an issue or task, make sure that it does not already exists in the [issue tracker](../). Thank you.
-
-## Expected Enhancement
-<!-- Give a brief description of how the system should work -->
-
-## Current Behavior
-<!-- Give a brief description of how the system actually works -->
-
-## Possible Solution
-<!-- If possible give some possible solutions -->
-
-## Comments
-<!-- Add further comments if needed -->
-
-## Environment Used
-- Project version : <!-- this projects version (see VERSION file) -->
-- docker version : <!-- the version of docker (docker -v) -->
-- docker-compose version : <!-- the version of docker-compose (docker-compose -v) -->
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bb486229a3c647a7612ca25a6c1815967c95da9a2169665cc3bc4e0695994df
+size 861

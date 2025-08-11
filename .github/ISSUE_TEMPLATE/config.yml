@@ -1,9 +1,3 @@
-blank_issues_enabled: false
-
-contact_links:
-  - name: SONIA AUV official documentation
-    url: https://wiki.sonia.etsmtl.ca/
-    about: Visit our documentation for more information.
-  - name: SONIA AUV website
-    url: https://sonia.etsmtl.ca/
-    about: Visit our website and feel free to ask any questions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37681aa1b04cf11f5d69fa32421f5a5a1de8a653a8776d6c2d9401b90f4d276e
+size 309

@@ -1,19 +1,3 @@
----
-name: Feature Request - Priority - Medium
-about: Suggest an medium priority idea for this project
-title: ''
-labels: "Type: Feature, Priority: Medium"
-assignees: ''
-
----
-
-**Warning :** Before creating an issue or task, make sure that it does not already exists in the [issue tracker](../). Thank you.
-
-## Context
-<!-- Give a brief explanation why the feature should be implemented -->
-
-## Changes
-<!-- Give a brief description of the components that need to change and how -->
-
-## Comments
-<!-- Add further comments if needed -->
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1866b28118224400624c01f2cdb8a159434c8300ce133da285c88d66ad226ae
+size 533

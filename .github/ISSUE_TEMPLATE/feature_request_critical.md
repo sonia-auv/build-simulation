@@ -1,19 +1,3 @@
----
-name: Feature Request - Priority - Critical
-about: Suggest an critical priority idea for this project
-title: ''
-labels: "Type: Feature, Priority: Critical"
-assignees: ''
-
----
-
-**Warning :** Before creating an issue or task, make sure that it does not already exists in the [issue tracker](../). Thank you.
-
-## Context
-<!-- Give a brief explanation why the feature should be implemented -->
-
-## Changes
-<!-- Give a brief description of the components that need to change and how -->
-
-## Comments
-<!-- Add further comments if needed -->
+version https://git-lfs.github.com/spec/v1
+oid sha256:d72de22e6178a7cc5b63591992521399711719347856bbb554ede3e6cac21e1e
+size 539

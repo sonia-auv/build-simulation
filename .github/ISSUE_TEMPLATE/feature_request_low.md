@@ -1,19 +1,3 @@
----
-name: Feature Request - Priority - Low
-about: Suggest an low priority idea for this project
-title: ''
-labels: "Type: Feature, Priority: Low"
-assignees: ''
-
----
-
-**Warning :** Before creating an issue or task, make sure that it does not already exists in the [issue tracker](../). Thank you.
-
-## Context
-<!-- Give a brief explanation why the feature should be implemented -->
-
-## Changes
-<!-- Give a brief description of the components that need to change and how -->
-
-## Comments
-<!-- Add further comments if needed -->
+version https://git-lfs.github.com/spec/v1
+oid sha256:91f40197879c95bb59e4111dd34b12ff9d38ed29d71c0b5f9c1b6ac9d4029c1c
+size 524
